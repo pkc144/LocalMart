@@ -1,8 +1,4 @@
 
----
-
-## 📄 **README.md (Updated)**
-
 ````markdown
 # 🛒 LOCALMART (MERN Ecommerce App)
 
