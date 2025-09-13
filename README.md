@@ -1,5 +1,4 @@
 
-````markdown
 # 🛒 LOCALMART (MERN Ecommerce App)
 
 A Full-Stack Ecommerce application built using **MongoDB, Express, React (TypeScript), Node.js** with **Stripe payment integration**, **Firebase authentication**, and **Redis caching**.
